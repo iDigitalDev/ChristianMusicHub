@@ -1,0 +1,11 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Path_1008" data-name="Path 1008" d="M34.445,0H5.555A5.564,5.564,0,0,0,0,5.555V34.445A5.564,5.564,0,0,0,5.555,40H34.445A5.564,5.564,0,0,0,40,34.445V5.555A5.564,5.564,0,0,0,34.445,0Zm2.993,34.445a3,3,0,0,1-2.993,2.993H5.555a3,3,0,0,1-2.992-2.993V5.555A3,3,0,0,1,5.555,2.566H34.445a3,3,0,0,1,2.993,2.989Z" fill="#2dceef"/>
+    <path id="Path_1009" data-name="Path 1009" d="M111.618,137.866H93.948a1.284,1.284,0,0,0,0,2.566h17.67a1.284,1.284,0,1,0,0-2.566Z" transform="translate(-78.404 -116.593)" fill="#2dceef"/>
+    <path id="Path_1010" data-name="Path 1010" d="M37.438,140.436h3.64a1.284,1.284,0,0,0,0-2.566h-3.64a1.284,1.284,0,0,0,0,2.566Z" transform="translate(-30.613 -116.597)" fill="#2dceef"/>
+    <path id="Path_1011" data-name="Path 1011" d="M139.619,205.706H127.058a1.284,1.284,0,0,0,0,2.566h12.561a1.284,1.284,0,1,0,0-2.566Z" transform="translate(-106.405 -173.965)" fill="#2dceef"/>
+    <path id="Path_1012" data-name="Path 1012" d="M46.021,205.71H37.438a1.284,1.284,0,0,0,0,2.566h8.584a1.284,1.284,0,0,0,0-2.566Z" transform="translate(-30.613 -173.97)" fill="#2dceef"/>
+    <path id="Path_1013" data-name="Path 1013" d="M184.6,171.786H180.33a1.284,1.284,0,1,0,0,2.566H184.6a1.284,1.284,0,1,0,0-2.566Z" transform="translate(-151.382 -145.279)" fill="#2dceef"/>
+    <path id="Path_1014" data-name="Path 1014" d="M37.438,174.356H54.7a1.284,1.284,0,0,0,0-2.566H37.438a1.284,1.284,0,0,0,0,2.566Z" transform="translate(-30.613 -145.283)" fill="#2dceef"/>
+  </g>
+</svg>

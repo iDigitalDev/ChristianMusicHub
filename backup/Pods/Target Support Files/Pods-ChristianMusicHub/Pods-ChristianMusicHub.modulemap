@@ -1,0 +1,6 @@
+module Pods_ChristianMusicHub {
+  umbrella header "Pods-ChristianMusicHub-umbrella.h"
+
+  export *
+  module * { export * }
+}

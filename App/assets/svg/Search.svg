@@ -1,0 +1,11 @@
+<svg id="Search_-_Active" data-name="Search - Active" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.08" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#66d5f7"/>
+      <stop offset="1" stop-color="#0eafe1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+    <path id="Path_4" data-name="Path 4" d="M43.593,41.608,34.987,33a19.855,19.855,0,0,0,4.775-15.1,1.4,1.4,0,0,0-2.793.286,17,17,0,1,1-2.6-7.479,1.409,1.409,0,1,0,2.37-1.524A19.94,19.94,0,1,0,33,34.987l8.606,8.606a1.4,1.4,0,0,0,1.986-1.986Z" transform="translate(-0.005 -0.005)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
