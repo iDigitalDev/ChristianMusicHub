@@ -29,7 +29,8 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb1377956802412657</string>
+			<string>fb279788300947181</string>
+				<!-- <string>fb1377956802412657</string> -->
 				<string>app</string>
 			</array>
 		</dict>
@@ -37,7 +38,9 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
-	<string>1377956802412657</string>
+	<!-- <string>1377956802412657</string> -->
+    <string>279788300947181</string>
+	
 	<key>FacebookDisplayName</key>
 	<string>Christian Music Hub</string>
 	<key>LSRequiresIPhoneOS</key>
